@@ -1,0 +1,4 @@
+mainClass/StoreClass.java
+ mainClass.StoreClass
+mainClass/Main.java
+ mainClass.Main
